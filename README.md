@@ -1,7 +1,6 @@
 # Awesome-Headless-CMS
 
-Edit
-Top Headless CMS Ecosystem
+## Top Headless CMS Ecosystem
 
 Curated List of SaaS Products & Open-Source GitHub Projects
 Focused on API-First Content Management, Omnichannel Content Delivery & Developer Experience
@@ -27,73 +26,26 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Contentful
-Enterprise-focused composable/headless CMS providing structured content models, APIs, localization, workflows, and omnichannel content delivery.
-
-Sanity
-Developer-focused content platform built around a real-time Content Lake and customizable Sanity Studio, with GROQ and GraphQL APIs.
-
-Strapi
-Popular API-first CMS with a customizable admin interface and REST/GraphQL APIs. Strapi also has a self-hostable Community Edition and a managed Strapi Cloud offering.
-
-Storyblok
-Headless CMS combining structured content APIs with a visual editor, component-based page building, collaboration, localization, and omnichannel delivery.
-
-Hygraph
-GraphQL-native headless CMS supporting structured content, content federation, localization, and composable digital experiences.
-
-Directus
-Data-first content and data platform that provides APIs and an administration interface over SQL databases. Its current licensing model is source-available rather than straightforward OSI-approved open source, so it should be evaluated separately from MIT-licensed CMSs.
-
-Prismic
-Headless CMS focused on structured content, reusable slices, page building, localization, and developer-friendly integrations.
-
-DatoCMS
-API-first content platform designed for structured content, publishing workflows, localization, media management, and high-performance websites.
-
-ButterCMS
-Hosted headless CMS with APIs and prebuilt content functionality for blogs, pages, collections, and marketing content.
-
-Payload CMS
-TypeScript-first headless CMS and application framework with REST and GraphQL APIs, a customizable admin panel, and deep Next.js integration. It can be self-hosted or deployed through Payload Cloud.
-
-Contentstack
-Enterprise composable DXP/headless CMS supporting structured content, workflows, localization, integrations, and omnichannel delivery.
-
-Agility CMS
-Hybrid/headless CMS providing structured content, page management, content modeling, APIs, and visual editing capabilities.
-
-Strapi Cloud
-Managed hosting for Strapi projects, providing cloud infrastructure and deployment while retaining the Strapi application model.
-
-Contentstack Launch
-Cloud-oriented infrastructure and deployment capabilities associated with the Contentstack composable platform ecosystem.
-
-Sanity Content Lake
-Hosted content infrastructure underpinning Sanity's real-time, structured-content architecture.
-
-Builder.io
-Visual headless CMS and digital experience platform combining structured content with visual page building and composable frontends.
-
-Kontent.ai
-Enterprise headless CMS for structured content, omnichannel delivery, localization, workflows, and composable architectures.
-
-Storyblok Cloud
-Managed Storyblok platform providing visual editing, structured content, APIs, localization, and cloud infrastructure.
-
-Contentstack
-Enterprise-grade composable content platform designed for large organizations operating multiple digital channels and content experiences.
-
-Cosmic
-API-first hosted CMS focused on structured content, content models, media, and developer-oriented integrations.
-
-ButterCMS
-SaaS headless CMS emphasizing rapid integration, APIs, reusable content, and marketing-site content management.
-
-Zesty.io
-Enterprise content platform supporting headless and traditional web publishing, structured content, localization, and digital experience management.
+| Platform | Description | Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **Contentful** | Enterprise-focused composable/headless CMS providing structured content models, APIs, localization, workflows, and omnichannel delivery. | From **$300/month** (Lite Plan) | **Free forever**: 1 Starter space, 10 users, 2 locales, 25 content models, 100k API calls/mo, 50 GB asset bandwidth/mo. |
+| **Sanity** | Developer-focused content platform built around a real-time Content Lake and customizable Studio, with GROQ and GraphQL APIs. | From **$15/seat/month** (Growth Plan) | **Free forever**: 20 seats, 2 datasets, 10k documents, 1M API requests/mo, 5M API CDN requests/mo, 100 GB storage, 100 GB bandwidth. |
+| **Strapi Cloud** | Managed cloud hosting for Strapi projects, providing cloud infrastructure and deployment while retaining the Strapi application model. | From **$29/month** (Starter Plan) | **No free tier / No free trial** (Community Edition self-hosted is open source; Cloud is paid subscription only). |
+| **Storyblok** | Headless CMS combining structured content APIs with a visual editor, component-based page building, collaboration, and localization. | From **$99/month** (Growth Plan) | **Free forever**: 1 space, 1 seat, 2 locales/languages, 100k API requests/mo, 100 GB traffic/mo; **14-day free trial** for paid plans. |
+| **Hygraph** | GraphQL-native headless CMS supporting structured content, content federation, localization, and composable digital experiences. | From **$199/month** (Growth Plan) | **Free forever** (Hobby): 3 seats, 2 roles, 2 locales, 10 components, 500k API calls/mo, 50 MB max file size, 5 RPS; **30-day free trial**. |
+| **Directus Cloud** | Data-first content and data platform providing APIs and an administration interface over SQL databases. | From **$499/month** (Team Plan) | **Free forever** (Core): 3 seats, 25 collections, 5 flows, AI Assistant, RBAC (also free self-hosted open-source). |
+| **Prismic** | Headless CMS focused on structured content, reusable slices, visual page building, localization, and developer-friendly integrations. | From **$10/month** (Starter Plan) | **Free forever**: 1 user, 2 locales, 4M API calls/mo, 100 GB CDN bandwidth/mo, visual page builder included. |
+| **DatoCMS** | API-first content platform designed for structured content, publishing workflows, localization, media management, and fast sites. | From **€149/month** (Professional Plan) | **Free forever** (Developer): 2 editors, 300 records, 3 projects, 3 sandbox environments, 100k API calls/mo, 10 GB traffic/mo. |
+| **ButterCMS** | Hosted headless CMS with APIs and prebuilt content functionality for blogs, pages, collections, and marketing content. | From **$71/month** (Micro Plan) | **Free forever**: 5 pages, 50 blog posts, 50k API calls/mo, 100 GB bandwidth/mo, unlimited users; **14-day free trial**. |
+| **Payload Cloud** | Managed cloud hosting platform for TypeScript-first Payload CMS and application framework. | From **$35/month** (Standard Plan) | **Open-source self-hosted is 100% free** (no seat/record limits); Cloud sign-ups paused post-Figma acquisition. |
+| **Contentstack** | Enterprise composable DXP/headless CMS supporting structured content, workflows, localization, integrations, and omnichannel delivery. | From **$995–$3,500/month** (Contract-based) | **Free Developer / Explorer Account** for evaluation; custom-length free trial available upon request. |
+| **Agility CMS** | Hybrid/headless CMS providing structured content, page management, content modeling, APIs, and visual editing capabilities. | From **$699/month** (Essentials Plan) | **30-day free trial** with full platform access (no credit card required); Proof-of-Concept tier: 5 users, 25,000 entries. |
+| **Builder.io** | Visual headless CMS and digital experience platform combining structured content with visual page building and frontends. | From **$24/user/month** (Pro Plan) | **Free forever**: Up to 5 users per space, 75 monthly Agent Credits (25/day limit); **14-day free trial** of Pro. |
+| **Kontent.ai** | Enterprise headless CMS for structured content, omnichannel delivery, localization, workflows, and composable architectures. | From **Custom / Quote-based (~$1,000+/mo)** | **30-day free trial** with full enterprise platform access & AI credits; Developer Plan: 1 user, 2 languages, 200k API calls/mo. |
+| **Cosmic** | API-first hosted CMS focused on structured content, content models, media, and developer-oriented integrations. | From **$49/month** (Builder Plan) | **Free forever**: 2 team members, 1,000 objects, 10,000 non-cached API requests/mo, 1 GB media storage, 1 GB bandwidth. |
+| **Zesty.io** | Enterprise content platform supporting headless and traditional web publishing, structured content, and localization. | From **$475/month** (Start Up Plan) | **Free forever** (Community): 1 user, 5 GB storage, 5 GB CDN bandwidth, 50,000 CDN requests, 3,000 API calls/mo. |
 
 Open-Source GitHub Projects
 
